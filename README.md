@@ -28,6 +28,7 @@ A Kafka-based transaction processing system built for the JPMC Advanced Software
 
 ## 📫 How to reach me
 - GitHub: [@Yasir2690](https://github.com/Yasir2690)
+- LinkedIn: [Yasir Asfaque](https://www.linkedin.com/in/yasir-asfaque-3476343a8/)
 
 ## ⚡ Fun fact
 I started my GitHub journey just a few days ago and already have a completed project! 🚀
